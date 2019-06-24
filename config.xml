@@ -38,7 +38,7 @@
         <author href="http://we2app.com" email="atik@we2app.com">
         Atik
         </author>
-        <content src="http://we2app.com" />
+        <content src="index.html" />
         <icon src="icon.png" />
         <gap:platform name="android" />
         
